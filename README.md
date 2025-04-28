@@ -2,7 +2,7 @@
 
 ![Fauzi's Banner](https://github.com/fauzialifatah/fauzialifatah/blob/main/assets/banner.jpg)
 
-I'm a **Full-Stack Developer**, **Open Source Contributor**, and **Tech Enthusiast**. I specialize in building web applications, automation tools, and exploring the world of **AI & Machine Learning**.
+Haii saya **Muhammad Fauzi Alifatah** seorang yang pengembangan script bot whatsapp menggunakan command java script ( Command Java Script, ECMAScript Modules ), dan pembuatan halaman portofolio saya sering menggunakan nama **Fauzialifatah**.
 
 Welcome to my GitHub profile! 🚀
 
