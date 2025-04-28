@@ -8,9 +8,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **WhatsApp Bots** and **Web Projects**.
-- 🌱 I’m learning about **Cloud Computing** and **Machine Learning**.
 - 💬 Ask me about **JavaScript**, **Node.js**, **Automation Bots**.
-- 📫 How to reach me: [Email](mailto:fauzi@example.com) | [LinkedIn](https://linkedin.com/in/fauzialifatah)
 
 ---
 
