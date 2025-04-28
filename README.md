@@ -1,4 +1,3 @@
-f
 <h1 align="center">Hi, I'm Muhammad Fauzi Alifatah 👋</h1>
 <p align="center">
   Developer | Open Source Enthusiast | Tech Explorer
@@ -22,15 +21,6 @@ f
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fauzialifatah&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fauzialifatah&theme=radical" width="450"/>
-</p>
 
 ---
 
