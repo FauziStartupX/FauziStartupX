@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammad Fauzi Alifatah
 
-![Fauzi's Banner]((https://telegra.ph/file/64620ff1d3778449dfd22.jpg))
+![Fauzi's Banner](https://telegra.ph/file/64620ff1d3778449dfd22.jpg)
 
 Haii saya **Muhammad Fauzi Alifatah** seorang yang pengembangan script bot whatsapp menggunakan command java script ( Command Java Script dan ECMAScript Modules ), dan pembuatan halaman website portofolio saya sering menggunakan nama **Fauzialifatah**.
 
