@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Fauzi Alifatah 👋</h1>
 <p align="center">
-  Developer | Open Source Enthusiast | Tech Explorer
+  Hi, I'm **Muhammad Fauzi Alifatah** a WhatsApp bot script developer using Java Script commands (Command Java Script, ECMAScript Modules), and when creating my portfolio page I often use the name **Fauzialifatah**
 </p>
 
 ---
