@@ -1,31 +1,55 @@
-# Perubahan Nama Pengguna / Repositori GitHub
+# 👋 Hi, I'm Muhammad Fauzi Alifatah
 
-## Deskripsi
-Dokumentasi ini berisi informasi terkait perubahan nama pengguna atau repositori pada akun GitHub saya. Tujuan dari perubahan ini adalah untuk lebih mencerminkan identitas dan tujuan proyek saya.
+I'm a passionate software developer with a keen interest in **Web Development**, **Machine Learning**, and **Automation**. I love learning new technologies and solving complex problems through code. Welcome to my GitHub profile! 🚀
 
-## Alasan Perubahan
-- Menyesuaikan dengan branding baru atau proyek yang lebih spesifik.
-- Mempermudah orang lain untuk menemukan repositori atau profil GitHub saya.
-- Menghindari kebingunguan terkait dengan nama lama.
+---
 
-## Perubahan yang Terjadi
-- **Nama Pengguna GitHub**: `fauzialifatah` → `mfa-id`
-- **Repositori Terkait**: 
-  - `nama-repositori-lama` → `nama-repositori-baru`
+## 🔧 Technologies & Tools
+
+- **Languages**: JavaScript, Python, TypeScript, HTML, CSS
+- **Frameworks**: Node.js, Express, React, Django, Flask
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools**: Git, Docker, AWS, VS Code, Postman
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- **Cloud Computing** with AWS & GCP
+- **DevOps** practices & **CI/CD**
+- **Deep Learning** & **AI Models**
   
-## Apa yang Perlu Diperhatikan
-- Semua link lama yang mengarah ke repositori atau profil GitHub ini masih akan berfungsi karena GitHub menyediakan pengalihan otomatis.
-- Beberapa alat atau API yang terhubung dengan repositori lama mungkin memerlukan pembaruan URL.
-- Pastikan untuk memeriksa ulang konfigurasi webhooks atau pengaturan lain yang menggunakan nama lama.
+---
 
-## Langkah-langkah Setelah Perubahan
-1. Perbarui URL di file `README.md` jika mengarah ke repositori lama.
-2. Perbarui pengaturan di layanan pihak ketiga yang terhubung dengan repositori GitHub.
-3. Pastikan bahwa semua dokumentasi dan tautan yang mengarah ke profil GitHub terbaru diperbarui.
+## 💡 Recent Projects
 
-## Kontak
-Jika ada pertanyaan atau butuh klarifikasi, silakan hubungi saya melalui:
-- Email: [fauzi@example.com](mailto:fauzi@example.com)
-- Twitter: [@fauzi_twitter](https://twitter.com/fauzi_twitter)
-  
-Terima kasih atas pengertiannya!
+Here are some of my latest projects:
+
+### [📱 WhatsApp Bot](https://github.com/fauzialifatah/whatsapp-bot)
+A WhatsApp bot built using Node.js and Baileys library to automate messages and handle user interactions. 
+
+### [🎨 Portfolio Website](https://github.com/fauzialifatah/portfolio)
+A personal portfolio website built with React to showcase my skills, projects, and achievements.
+
+---
+
+## 📈 GitHub Stats
+
+![Fauzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzialifatah&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+---
+
+## 🌍 Connect with Me
+
+Feel free to reach out or follow me on these platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/fauzialifatah)
+- [Twitter](https://twitter.com/fauzi_twitter)
+- [Email](mailto:fauzi@example.com)
+
+---
+
+### ✨ Fun Facts
+
+- I'm an avid **book reader** 📚 and enjoy exploring new topics in tech and personal development.
+- I'm passionate about **open-source contributions** and always looking to collaborate on exciting projects.
