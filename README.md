@@ -1,29 +1,17 @@
-## Animated Tech Stack
+## Programming Languages
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" title="TypeScript"/>
+  <!-- Web -->
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="45" title="JavaScript"/>
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="45" title="Python"/>
-  <img src="https://media.giphy.com/media/SE7sVZvFaiDbp3DWR9/giphy.gif" width="45" title="Java"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" title="TypeScript"/>
+  <img src="https://media.giphy.com/media/UbhiXGJk0k6jG/giphy.gif" width="45" title="HTML"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="45" title="CSS"/>
 
-  <!-- Backend / Runtime -->
+  <!-- Backend -->
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="45" title="Node.js"/>
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="45" title="Express.js"/>
-
-  <!-- DevOps -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" title="Docker"/>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45" title="Linux"/>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" title="Git"/>
-
-  <!-- Database -->
-  <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="45" title="MongoDB"/>
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="45" title="SQL"/>
-
-  <!-- Tools -->
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="45" title="VS Code"/>
-  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="45" title="Terminal"/>
-</p>  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="45" title="Go"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45" title="PHP"/>
+  <img src="https://media.giphy.com/media/SE7sVZvFaiDbp3DWR9/giphy.gif" width="45" title="Java"/>
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="45" title="Go"/>
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="45" title="Rust"/>
 
   <!-- System -->
