@@ -39,3 +39,11 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45" title="Haskell"/>
   <img src="https://media.giphy.com/media/3oEjHAUOqG3lSS0f1C/giphy.gif" width="45" title="Lua"/>
 </p>
+
+## Platforms & DevOps
+
+<p align="left">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" title="Docker"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45" title="Ubuntu"/>
+  <img src="https://media.giphy.com/media/3o7TKxOhN2gB9z2t6M/giphy.gif" width="45" title="Proxmox"/>
+</p>
