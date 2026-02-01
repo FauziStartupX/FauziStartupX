@@ -2,39 +2,41 @@
 
 <p align="left">
   <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="45" title="JavaScript"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="45" title="TypeScript"/>
+  <img src="https://media.giphy.com/media/UbhiXGJk0k6jG/giphy.gif" width="45" title="HTML"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="45" title="CSS"/>
 
-  <!-- Backend / System -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <!-- Backend -->
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="45" title="Node.js"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="45" title="PHP"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="45" title="Python"/>
+  <img src="https://media.giphy.com/media/SE7sVZvFaiDbp3DWR9/giphy.gif" width="45" title="Java"/>
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="45" title="Go"/>
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="45" title="Rust"/>
+
+  <!-- System -->
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="45" title="C"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45" title="C++"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhXxK/giphy.gif" width="45" title="C#"/>
 
   <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="45" title="Kotlin"/>
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="45" title="Swift"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45" title="Dart"/>
 
-  <!-- Data / Scientific -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40"/>
+  <!-- Data -->
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="45" title="R"/>
+  <img src="https://media.giphy.com/media/xT9IgIc0lryrxvqVGM/giphy.gif" width="45" title="MATLAB"/>
 
   <!-- Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" title="Bash"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="45" title="PowerShell"/>
 
-  <!-- Functional / Other -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40"/>
+  <!-- Other -->
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="45" title="Ruby"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45" title="Scala"/>
+  <img src="https://media.giphy.com/media/3o7TKxOhN2gB9z2t6M/giphy.gif" width="45" title="Perl"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="45" title="Haskell"/>
+  <img src="https://media.giphy.com/media/3oEjHAUOqG3lSS0f1C/giphy.gif" width="45" title="Lua"/>
 </p>
