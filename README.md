@@ -7,6 +7,14 @@ Saya suka membangun sistem yang **stabil, scalable, dan otomatis**, mulai dari s
 
 ---
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FauziStartupX&theme=dark&hide_border=true" />
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 ### 🖥️ Infrastructure & OS
