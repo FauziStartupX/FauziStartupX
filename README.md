@@ -1,27 +1,6 @@
-## 👨‍💻 Skills & Technologies
-
-### 🧠 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,bash" />
-</p>
-
-### ⚙️ Backend & Runtime
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🐧 Server & Virtualization
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu" />
-  <img src="https://cdn.simpleicons.org/proxmox/E57000" height="48"/>
-</p>
-
-### 🛠️ Tools & Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
 </p>
