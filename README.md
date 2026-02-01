@@ -27,6 +27,7 @@ Saya suka membangun sistem yang **stabil, scalable, dan otomatis**, mulai dari s
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![GitHub Streak](https://streak-stats.demolab.com?user=FauziStartupX&theme=dark&hide_border=true)
+![Snake animation](https://github.com/FauziStartupX/FauziStartupX/blob/output/github-contribution-grid-snake.svg)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
